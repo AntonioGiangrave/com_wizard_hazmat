@@ -7,8 +7,8 @@
 	<!-- The following elements are optional and free of formatting constraints -->
 	<creationDate>Marzo 2015</creationDate>
 	<author>AG</author>
-	<authorEmail>tony@bslt.it</authorEmail>
-	<authorUrl>http://www.bslt.it.it</authorUrl>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
 	<copyright>Copyright Info</copyright>
 	<license>License Info</license>
 	<!--  The version string is recorded in the components table -->
@@ -18,7 +18,7 @@
 
 
 	<updateservers>
-		<server type="extension" element="com_gglms" name="gglms" priority="1">https://raw.githubusercontent.com/GGallery/com_gglms/master/gglmsupdate.xml</server>
+		<server type="extension" element="com_wizard" name="wizard" priority="1">https://github.com/AntonioGiangrave/com_wizard_hazmat/blob/master/wizardupdate.xml</server>
 	</updateservers>
 
 
