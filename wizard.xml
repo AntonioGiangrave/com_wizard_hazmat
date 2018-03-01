@@ -37,40 +37,17 @@
 			to copy FROM in the package to install therefore files copied
 			in this section are copied from /site/ in the package -->
 	<files folder="site">
+
 		<filename>controller.php</filename>
-		<filename>css/custom.css</filename>
-		<filename>images/gufo.png</filename>
 		<filename>index.html</filename>
-		<filename>models/case0.php</filename>
-		<filename>models/case1.php</filename>
-		<filename>models/libs/contenuto.lib.php</filename>
-		<filename>models/libs/FirePHPCore/fb.php</filename>
-		<filename>models/libs/FirePHPCore/fb.php4</filename>
-		<filename>models/libs/FirePHPCore/FirePHP.class.php</filename>
-		<filename>models/libs/FirePHPCore/FirePHP.class.php4</filename>
-		<filename>models/libs/FirePHPCore/LICENSE</filename>
-		<filename>models/templates/temp.tpl</filename>
 		<filename>router.php</filename>
-		<filename>views/case0/tmpl/default_0a.php</filename>
-		<filename>views/case0/tmpl/default_0b.php</filename>
-		<filename>views/case0/tmpl/default_0c.php</filename>
-		<filename>views/case0/tmpl/default_0d.php</filename>
-		<filename>views/case0/tmpl/default_0e.php</filename>
-		<filename>views/case0/tmpl/default_0e_reg_1.php</filename>
-		<filename>views/case0/tmpl/default_0e_reg_2.php</filename>
-		<filename>views/case0/tmpl/default_0e_reg_3.php</filename>
-		<filename>views/case0/tmpl/default_0e_reg_4.php</filename>
-		<filename>views/case0/tmpl/default_0f.php</filename>
-		<filename>views/case0/tmpl/default_0f_backup.php</filename>
-		<filename>views/case0/tmpl/default_login.php</filename>
-		<filename>views/case0/tmpl/Wizard.xml</filename>
-		<filename>views/case0/view.html.php</filename>
-		<filename>views/case1/tmpl/default.php</filename>
-		<filename>views/case1/tmpl/default_country.php</filename>
-		<filename>views/case1/tmpl/default_hhcp.php</filename>
-		<filename>views/case1/tmpl/Wizard.xml</filename>
-		<filename>views/case1/view.html.php</filename>
 		<filename>wizard.php</filename>
+
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>models</folder>
+		<folder>views</folder>
+
 	</files>
 
 
